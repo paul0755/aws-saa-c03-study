@@ -119,6 +119,6 @@ EFS → 여러 EC2 인스턴스가 여러 AZ에 걸쳐 동시에 접근 가능�
 3. EC2 인스턴스 스토어 사용 
 4. EBS io2 Block Express 드라이브 사용
 
->> 정답 : 4번
+>> 정답 : 3번
 >
->> 메모 : gp2는 16000 정도, io1은 64000정도, EBS io2 Block Express는 350000까지 가능. 
+>> 메모 : gp2는 16000 정도, io1은 64000정도, EBS io2 Block Express는 250000까지 가능. 
