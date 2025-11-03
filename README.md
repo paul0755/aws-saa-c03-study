@@ -85,9 +85,10 @@
 | 2  | 09/29   |     IAM, EC2               | ✅ |
 | 3  | 10/14   |     EC2-Associate, EC2-Storage          |  ✅ |
 | 4  | 10/21   |    Route53, VPC            |  ✅ |
-| 5  | 11/4   | Machine Learning   |  🔄 |
-| 6  |   |         |  ⬜️ |
-| …  | …       |  |  ⬜️ |
+| 5  | 10/28   | Scalability & High Avaliability, RDS   |  ✅ |
+| 6  | 11/4   |   Machine Learning  |  🔄 |
+| 7  | …       |  |  ⬜️ |
+| 8  | …       |  |  ⬜️ |
 
 > ✅ 완료 / 🔄 진행중 / ⬜️ 예정
 
